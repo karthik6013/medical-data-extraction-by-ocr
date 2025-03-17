@@ -30,6 +30,7 @@ Without preprocessing extracting data
 Tried extracting data from source files without any processing, as they are not in proper format to be extracted, the extracted data was not as expected.
 
 dark_image
+![Uploading image.png…]()
 
 Extracted data from the above image
   Dr John Smith, M.D
